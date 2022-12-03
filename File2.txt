@@ -1,1 +1,2 @@
 It's my personal work. I am trying to write different command
+so I try to use command git commit without -m
