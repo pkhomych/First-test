@@ -1,1 +1,1 @@
-new line for GUI
+new info for git GUI
